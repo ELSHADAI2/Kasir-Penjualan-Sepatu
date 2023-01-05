@@ -1,2 +1,2 @@
-# Kasir-Penjualan-Sepatu
+# Penjualan-Sepatu
 Tugas Proyek PBO
